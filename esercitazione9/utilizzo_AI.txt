@@ -1,0 +1,3 @@
+Ho utilizzato Gemini per capire come implementare la funzione DecreaseKey proposta nello pseudocodice, dato
+che non ho trovato qualcosa di analogo tra i metodi della classe std::priority_queue. Righe 87-88 e 96 del codice. 
+
